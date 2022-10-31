@@ -1,0 +1,17 @@
+
+main {
+  background-color: #fcfcd4;
+  display: flex;
+  font-size: 18px;
+}
+
+main > section {
+  width: 25%;
+  margin: 20px;
+  text-align: center;
+  background-color: #fcfcd4;  
+}
+
+img {
+  border-radius: 30%;
+}
